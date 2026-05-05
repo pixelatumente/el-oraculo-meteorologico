@@ -1,0 +1,17 @@
+{
+  "name": "El Oráculo Meteorológico",
+  "short_name": "Oráculo",
+  "description": "Inteligencia meteorológica basada en 20 años de registros históricos.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0D0F14",
+  "theme_color": "#0D0F14",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1779/1779944.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
